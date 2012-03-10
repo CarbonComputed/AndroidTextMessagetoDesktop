@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="MacRoman" standalone="no"?>
-<!DOCTYPE log SYSTEM "logger.dtd">
-<log>
-<record>
-  <date>2011-10-09T23:32:33</date>
-  <millis>1318217553331</millis>
-  <sequence>0</sequence>
-  <logger>com.TextMessager</logger>
-  <level>INFO</level>
-  <class>textmessager.TextMessager</class>
-  <method>&lt;init&gt;</method>
-  <thread>10</thread>
-  <message>TEXTR:7325892711:Test:Kevin Carbone</message>
-</record>
-</log>
+
